@@ -1,7 +1,8 @@
                                                   HOSTED LINK:https://gagan737.github.io/APPLICATION-1/
 
-![Screenshot (3)](https://github.com/user-attachments/assets/e89ba1c3-2bad-4b4a-ba8d-0722344e5c02)
-![Screenshot (4)](https://github.com/user-attachments/assets/2963d26e-0f1a-4d8c-8ab3-e25d80a6e8da)
+![Screenshot (3)](https://github.com/user-attachments/assets/b3c68f84-b9ec-4af3-bbcb-d33adc136d1c)
+![Screenshot (4)](https://github.com/user-attachments/assets/e8f83494-73f6-4572-8721-4f23ac1f76b8)
+
 
 Rule Engine with AST This is a 3-tier application to evaluate user eligibility using rules based on Abstract Syntax Tree (AST).
 
