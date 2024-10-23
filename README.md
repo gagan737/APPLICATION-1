@@ -43,7 +43,8 @@ This application is a rule engine that determines user eligibility based on attr
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/gagan737/APPLICATION-1.git
-   cd APPLICATION-1
+   or download zip and extract
+   Use vs code to run the project
    ```
 
 2. **Install Backend Dependencies**
