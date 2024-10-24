@@ -1,4 +1,3 @@
-                                                  HOSTED LINK:https://gagan737.github.io/APPLICATION-1/
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/b3c68f84-b9ec-4af3-bbcb-d33adc136d1c)
 ![Screenshot (4)](https://github.com/user-attachments/assets/e8f83494-73f6-4572-8721-4f23ac1f76b8)
